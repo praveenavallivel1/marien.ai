@@ -1,2 +1,2 @@
 # marien.ai
-race hackathon clean river with AI
+race-reva university hackathon clean river with AI
